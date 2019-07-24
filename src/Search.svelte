@@ -37,6 +37,10 @@
 		.search {
 			height: 40px;
 		}
+		.search>div>input{
+			width: 133px;
+			height:  36px;
+		}
 		.search>img {
 			height: 36px;
 		}
