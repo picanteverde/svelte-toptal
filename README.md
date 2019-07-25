@@ -4,6 +4,12 @@
 
 # svelte app
 
+This repo and its [live demo](https://picanteverde-svelte-toptal.glitch.me/) are published as part of the corresponding blog article at https://www.toptal.com/javascript/whats-better-than-vue-js-react-angular
+
+Visit https://www.toptal.com/blog and subscribe to our newsletter to read great posts!
+
+* * *
+
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
